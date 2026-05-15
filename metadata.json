@@ -1,0 +1,8 @@
+{
+  "name": "LayoutAI",
+  "description": "Assistente inteligente de layout de interiores baseado em visão computacional e regras ergonômicas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
